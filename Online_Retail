@@ -1,1 +1,11 @@
 Projeto-1 Online Retails
+df[df['InvoiceNo'].str.contains('c5')]
+
+Cannot mask with non-boolean array containing NA / NaN values
+
+ 	InvoiceNo 	StockCode 	Description 	Quantity 	InvoiceDate 	UnitPrice 	CustomerID 	Country
+541904 	581587 	22613 	PACK OF 20 SPACEBOY NAPKINS 	12 	2011-12-09 12:50:00 	0.85 	12680.0 	France
+541905 	581587 	22899 	CHILDREN'S APRON DOLLY GIRL 	6 	2011-12-09 12:50:00 	2.10 	12680.0 	France
+541906 	581587 	23254 	CHILDRENS CUTLERY DOLLY GIRL 	4 	2011-12-09 12:50:00 	4.15 	12680.0 	France
+541907 	581587 	23255 	CHILDRENS CUTLERY CIRCUS PARADE 	4 	2011-12-09 12:50:00 	4.15 	12680.0 	France
+541908 	581587 	22138 	BAKING SET 9 PIECE RETROSPOT 	3 	2011-12-09 12:50:00 	4.95 	12680.0 	France
